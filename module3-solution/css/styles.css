@@ -1,0 +1,20 @@
+
+#header-nav {
+  background-color: #E7E7E7;
+}
+
+#nav-list li {
+  height: 50px;
+}
+
+#nav-list a {
+  text-align: center;
+  background-color: #f8f8f8;
+  border: 1px solid grey;
+  height: 50px;
+  padding-top: 15px;
+}
+
+.main-section {
+   background-color:  #E7E7E7;
+}
